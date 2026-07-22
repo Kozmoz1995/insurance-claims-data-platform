@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+build/
+logs/
+plugins/
+data/raw/
+data/curated/
+*.parquet
+.idea/
+.vscode/
